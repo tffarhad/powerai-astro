@@ -1,64 +1,130 @@
-<h1 align=center>Power AI - Astro Theme</h1>
+<h1 align=center>PowerAI Astro - A Free AI SaaS Website Template</h1>
 
-<p align=center>A modern, dark-themed AI/SaaS website template built with Astro, TailwindCSS & TypeScript. Converted from the Power AI Next.js theme to take advantage of Astro's superior static site performance.</p>
-
-<p align=center>Made with ♥ by <a href="https://sitepins.com/">Sitepins</a></p>
-
-<p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
+<p align=center>PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro, Tailwind CSS, TypeScript, and React, designed for AI product teams, SaaS founders, and agencies that need a complete, launch-ready web presence without starting from zero. It ships with 16 pre-built pages, 47 components and shortcodes, Framer Motion animations, and full MDX support. Ready to deploy on Cloudflare Workers, Netlify, or Docker out of the box.
 
 <p align=center>
   <a href="https://powerai-astro.pages.dev/">
-    <img src="https://img.shields.io/badge/Live%20Demo-View%20Site-blue?style=for-the-badge&logo=cloudflare" alt="Live Demo"/>
+    <img width="1920" height="1080" alt="powerai-astro-free-ai-saas-website-template-built-with-astro" src="https://github.com/user-attachments/assets/f3e93268-c11a-47e3-b3b8-17eb5cf09992" />
   </a>
 </p>
-<p align=center>
-  <a href="https://github.com/withastro/astro/releases/tag/astro%406.0.4">
-    <img src="https://img.shields.io/static/v1?label=ASTRO&message=6.0.4&color=000&logo=astro" alt="Astro Version 6.0.4"/>
-  </a>
-  <a href="https://github.com/sitepins/powerai-astro/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/sitepins/powerai-astro" alt="license">
-  </a>
-  <img src="https://img.shields.io/github/languages/code-size/sitepins/powerai-astro" alt="code size">
 </p>
 
-## 📌 Key Features
 
-- ⚡ **Blazing Fast** — Static site generation with Astro for optimal performance
-- 🌑 **Dark Mode** — Sleek, modern dark theme design
-- 🎨 **Tailwind CSS v4** — Utility-first styling with latest Tailwind
-- ✨ **Smooth Animations** — Motion/Framer Motion powered scroll reveals and transitions
-- 📱 **Fully Responsive** — Mobile-first design that looks great on all devices
-- 📝 **Markdown Content** — Write and update content in Markdown/MDX
-- 🔍 **SEO Optimized** — Built-in SEO meta tags and sitemap generation
-- 🏷️ **Categories & Tags** — Organized blog content
-- 📎 **Google Tag Manager** — Analytics ready
-- 🧩 **React Islands** — Interactive components with Astro's island architecture
-- 🎯 **TypeScript** — Full type safety throughout
+<p align="center">
+  Made with ♥ by <a href="https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro">Sitepins CMS</a> 
+  &nbsp; | &nbsp;
+  <a href="https://powerai-astro.pages.dev/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Site-blue?style=for-the-badge&logo=cloudflare" alt="Live Demo" valign="middle">
+  </a>
+  &nbsp; | &nbsp;
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro/">
+    <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins" valign="middle">
+  </a>
+</p>
 
-### 📄 14 Pre-built Pages
 
-- 🏠 **Homepage** — Hero, trusted clients, key features, statistics, pricing, testimonials, FAQ, CTA
-- 📖 **About** — Company story, team, gallery, goals
-- ✨ **Features** — Essential features & why choose us sections
-- 💰 **Pricing** — Monthly/Yearly Pricing Details
-- 📞 **Contact** — Contact form with company details
-- 📝 **Blog** — Blog listing with pagination + 6 blog posts
-- 📋 **Changelog** — Version history timeline
-- 📊 **Case Studies** — Case study listing with pagination + 4 case studies
-- 💼 **Careers** — Job listings + 8 individual career pages
-- 📋 **Changelog** — Version history timeline
-- 🔗 **Integrations** — Integration showcase + 15 individual integration pages
-- 📄 **Regular Pages** — Elements, Privacy Policy, Terms of Service
-- 🚫 **404** — Custom not found page
+## 💎 Key Features 
 
-## 🔗 Integrations
+* **16 pre-built pages** covering every section a modern AI SaaS product needs: homepage, features, pricing, blog, case studies, careers, integrations, changelog, contact, and more
+* **47 components, partials, and shortcodes** including animated buttons, pricing tables, video modals, testimonials, and MDX-ready interactive elements
+* **Framer Motion animations** (v12) for scroll-triggered reveals, transitions, and micro-interactions throughout
+* **Built with Astro 6, Tailwind CSS 4, TypeScript, and React 19** for minimal JavaScript output and a modern, type-safe codebase
+* **MDX shortcodes** for embedding accordions, tabs, notices, video players, and YouTube players directly in content
+* **Git-based CMS integration** via Sitepins for visual content editing without touching code
+* **Pre-configured for Cloudflare Workers, Netlify, and Docker** with zero additional setup
+* **Fully responsive** across desktops, tablets, and smartphones
+* **Highly customizable** colors, fonts, navigation, social links, and SEO meta tags via JSON config files
+* **Fully SEO optimized** with clean semantic markup and meta tag support
+* **Astro Content Collections** for type-safe content management across blog posts, case studies, careers, and integrations
+* **Free Google Fonts** and React Icons included
+* **MIT licensed** for personal and commercial use
 
-- astro/react
-- astro/sitemap
-- astro/tailwind
-- Cloudflare Workers (optional deployment)
+## 👥 Who is PowerAI Astro for?
+
+* **AI product founders and SaaS teams.** If you're shipping an AI tool, developer platform, or SaaS product and need a site that covers features, pricing, case studies, and careers all in one template, PowerAI Astro has every page pre-built and ready to fill in.
+
+* **Agencies and freelancers working on AI client projects.** The JSON-based config system, clean folder structure, and Sitepins CMS integration make it practical to hand off to non-technical clients. Customize the theme once and ship for multiple projects under the MIT license.
+
+* **Developers who want a full-featured starting point, not a bare skeleton.** With 47 components already built and wired up, Framer Motion animations ready to go, and Cloudflare Workers deployment preconfigured, you're writing product copy instead of boilerplate from day one.
+
+* **Content teams who need editorial control without a developer in the loop.** The Sitepins integration and MDX shortcode library let writers publish blog posts, case studies, and job listings visually, without touching source files.
+
+## 📄 15+ Pre-built Pages
+
+1. Home
+2. Pricing
+3. Features
+4. Changelog
+5. About Us
+6. Contact
+7. Blog
+8. Blog Details
+9. Careers
+10. Career Details
+11. Case Studies
+12. Case Study Details
+13. Integrations
+14. Integration Details
+15. Error (404)
+16. Regular Content Pages (e.g., Privacy Policy, Terms of Service)
+
+## 🧩 Components, Partial & Shortcodes (47)
+
+| Components (24)          | Partials (16)                        | Shortcodes (7)     |
+|--------------------------|--------------------------------------|--------------------|
+| Accordion                | Call To Action                       | MDX Accordion      |
+| Animated Button          | Essential Features                   | MDX Button         |
+| Badge                    | FAQ (Frequently Asked Questions)     | Notice (Alert box) |
+| Blog Card                | Footer                               | Tab (Single Tab pane) |
+| Career Card              | Gallery                              | Tabs (Tab group container) |
+| Case Study Card          | Header (Navigation layout)           | Video Player       |
+| Contact Form             | Integration View                     | YouTube Player     |
+| Counter                  | Key Features                         |                    |
+| Featured Case Study      | Open Positions (Careers)             |                    |
+| Featured Post            | Our Team                             |                    |
+| Hero                     | Page Header                          |                    |
+| Icon Box                 | Pricing Section                      |                    |
+| Integration List         | Testimonials                         |                    |
+| Logo                     | Trusted Clients (Client logos)       |                    |
+| Main Container           | Our Goals                            |                    |
+| Pagination               | Why Choose Us                        |                    |
+| Pricing Card             |                                      |                    |
+| Pricing Table            |                                      |                    |
+| Section Header           |                                      |                    |
+| Share (Social Share links) |                                    |                    |
+| Social (Social Media Icons) |                                   |                    |
+| Statistics               |                                      |                    |
+| Tailwind Size Indicator  |                                      |                    |
+| Video Modal              |                                      |                    |
+
+
+## 🔗 Main Technology Stacks
+
+*   **astro** v6.0.4
+*   **tailwind** v4.2.1
+*   **react** v19.2.4
+*   **vite** v8.0.0
+*   **typescript** v5.9.3
+*   **mdx** (@astrojs/mdx) v5.0.0
+*   **motion** (framer-motion) v12.0.0
+*   **prettier** v3.8.1
+*   **wrangler** v4.73.0 _(for Cloudflare Workers deployment)_
+*   **date-fns** v4.1.0
+*   **marked** v17.0.4
+*   **sharp** v0.34.5
+*   **react-icons** v5.6.0
 
 ## 🚀 Getting Started
+
+### How to get started
+
+- Download or clone the repository from GitHub
+- Run `yarn install` to install dependencies
+- Run `yarn run dev` to start the local development server
+- Update `src/config/config.json` with your site name, base URL, and favicon
+- Edit `src/config/theme.json` to set your brand colors and fonts
+- Replace placeholder content in `src/content/` with your own pages, posts, and case studies
+- Run `yarn run build` and deploy to Cloudflare Workers, Netlify, or your preferred platform
 
 ### 📦 Dependencies
 
@@ -66,24 +132,6 @@
 - node v22.0+
 - yarn v1.22+
 - tailwind v4+
-
-### 👉 Install Dependencies
-
-```bash
-yarn install
-```
-
-### 👉 Development Command
-
-```bash
-yarn run dev
-```
-
-### 👉 Build Command
-
-```bash
-yarn run build
-```
 
 ## 🚀 Deployment
 
@@ -160,7 +208,7 @@ docker run -it --rm powerai-astro ash
 
 ## 📝 Edit Content with CMS
 
-This template comes pre-configured with [**Sitepins**](https://sitepins.com), a Git-based Headless CMS designed for seamless content management. You can update your website’s text, images, and configuration without touching a single line of code.
+This template comes pre-configured with [**Sitepins**](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro), a Git-based Headless CMS designed for seamless content management. You can update your website’s content, assets, and configuration without touching a single line of code.
 
 **How to get started:**
 
@@ -346,6 +394,6 @@ Found a bug? Please [open an issue](https://github.com/sitepins/powerai-astro/is
 
 ## 📝 License
 
-Copyright (c) 2026 - Present, Designed by [Sitepins](https://sitepins.com/)
+Copyright (c) 2026 - Present, Designed by [Sitepins CMS](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro)
 
 **Code License:** Released under the [MIT](https://github.com/sitepins/powerai-astro/blob/main/LICENSE) license.
