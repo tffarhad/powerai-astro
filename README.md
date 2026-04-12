@@ -11,13 +11,13 @@
 
 
 <p align="center">
-  Made with ♥ by <a href="https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro">Sitepins CMS</a> 
+  Made with ♥ by <a href="https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro&aff=poweraiastro">Sitepins CMS</a> 
   &nbsp; | &nbsp;
   <a href="https://powerai-astro.pages.dev/">
     <img src="https://img.shields.io/badge/Live%20Demo-View%20Site-blue?style=for-the-badge&logo=cloudflare" alt="Live Demo" valign="middle">
   </a>
   &nbsp; | &nbsp;
-  <a target="_blank" href="https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro/">
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro">
     <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins" valign="middle">
   </a>
 </p>
@@ -208,13 +208,13 @@ docker run -it --rm powerai-astro ash
 
 ## 📝 Edit Content with CMS
 
-This template comes pre-configured with [**Sitepins**](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro), a Git-based Headless CMS designed for seamless content management. You can update your website’s content, assets, and configuration without touching a single line of code.
+This template comes pre-configured with [**Sitepins**](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro&aff=poweraiastro), a Git-based Headless CMS designed for seamless content management. You can update your website’s content, assets, and configuration without touching a single line of code.
 
 **How to get started:**
 
 Click the Edit with Sitepins button below and follow the on-screen instructions to start editing your content visually.
 
-  <a target="_blank" href="https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro/">
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro">
     <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins">
   </a>
 
@@ -394,6 +394,6 @@ Found a bug? Please [open an issue](https://github.com/sitepins/powerai-astro/is
 
 ## 📝 License
 
-Copyright (c) 2026 - Present, Designed by [Sitepins CMS](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro)
+Copyright (c) 2026 - Present, Designed by [Sitepins CMS](https://sitepins.com/?utm_source=github&utm_medium=readme&utm_campaign=powerai_astro&aff=poweraiastro)
 
 **Code License:** Released under the [MIT](https://github.com/sitepins/powerai-astro/blob/main/LICENSE) license.
