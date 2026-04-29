@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Power AI",
-    "base_url": "https://powerai.example.com",
+    "title": "Power AI - A Free AI SaaS Website Template built with Astro",
+    "base_url": "https://powerai-astro.pages.dev/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -24,15 +24,15 @@
     "apply_form_action": "#",
     "newsletter_form_action": "#",
     "footer_text": "Own traditional and AI search with a powerful platform",
-    "mail": "contact@powerai.com",
-    "phone": "(+1) 165-320-0102",
-    "copyright": "Designed And Developed by [Sitepins](https://sitepins.com)"
+    "mail": "john@example.com",
+    "phone": "(+1) 123-346-7890",
+    "copyright": "Designed and Developed by [Sitepins - a Git-based CMS for Static Sites.](https://sitepins.com)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Sign Up",
-    "link": "/sign-up"
+    "label": "Edit with Sitepins",
+    "link": "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
   },
 
   "google_tag_manager": {
@@ -43,6 +43,6 @@
   "metadata": {
     "meta_author": "Sitepins",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Astro Boilerplate"
+    "meta_description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes."
   }
 }

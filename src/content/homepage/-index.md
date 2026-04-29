@@ -16,10 +16,10 @@ banner:
   image: "/images/banner.png"
   button_dark:
     enable: true
-    label: "Start Free Trial"
-    link: "/features"
+    label: "GitHub Repository"
+    link: "https://github.com/sitepins/powerai-astro"
   button_primary:
     enable: true
-    label: "Book a Demo"
-    link: "/contact"
+    label: "Edit with Sitepins"
+    link: "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
 ---
