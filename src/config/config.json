@@ -10,7 +10,6 @@
     "logo_height": "46",
     "logo_text": "Power AI"
   },
-
   "settings": {
     "sticky_header": true,
     "pagination": 9,
@@ -28,18 +27,15 @@
     "phone": "(+1) 123-346-7890",
     "copyright": "Designed and Developed by [Sitepins - a Git-based CMS for Static Sites.](https://sitepins.com)"
   },
-
   "navigation_button": {
     "enable": true,
-    "label": "Edit with Sitepins",
+    "label": "Get Started",
     "link": "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
   },
-
   "google_tag_manager": {
     "enable": false,
     "gtm_id": "GTM-XXXXXX"
   },
-
   "metadata": {
     "meta_author": "Sitepins",
     "meta_image": "/images/og-image.png",
