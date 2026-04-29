@@ -5,8 +5,8 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Pricing",
+      "url": "/Pricing"
     },
     {
       "name": "Features",
@@ -61,7 +61,6 @@
             }
           ]
         ],
-
         "page_links": [
           {
             "name": "Contact Us",
@@ -132,7 +131,6 @@
       "name": "Integrations",
       "url": "/integrations"
     },
-
     {
       "name": "Careers",
       "url": "/careers"
