@@ -8,8 +8,6 @@ import dateFormat from "@/lib/utils/dateFormat";
 import readingTime from "@/lib/utils/readingTime";
 import { slug } from "github-slugger";
 import { render } from "astro:content";
-import OpenRemark from "@/components/OpenRemark.astro";
-
 
 const { post } = Astro.props;
 
@@ -138,7 +136,6 @@ if (headings) {
         </div>
       </div>
     </div>
-<OpenRemark slug={post.id} />
   </MainContainer>
 
 </section>
